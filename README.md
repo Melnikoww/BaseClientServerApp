@@ -1,1 +1,1 @@
-Client-Server App - Chat in languages C/C++ (CMAKE).
+Client-Server App - Chat in only C language (CMAKE).

@@ -1,0 +1,1 @@
+/usr/bin/cc "CMakeFiles/Client-ServerApp.dir/src/client.c.o" "CMakeFiles/Client-ServerApp.dir/src/server.c.o" -o Client-ServerApp 

@@ -1,0 +1,4 @@
+/home/nikita/C/networkProgramming/BaseChatClientServer/build/CMakeFiles/Client.dir
+/home/nikita/C/networkProgramming/BaseChatClientServer/build/CMakeFiles/Server.dir
+/home/nikita/C/networkProgramming/BaseChatClientServer/build/CMakeFiles/edit_cache.dir
+/home/nikita/C/networkProgramming/BaseChatClientServer/build/CMakeFiles/rebuild_cache.dir
